@@ -1,4 +1,6 @@
-pandas
 numpy
+pandas
 scikit-learn
-tensorflow
+xgboost
+matplotlib
+seaborn
