@@ -1,4 +1,4 @@
-from data_loader import generate_synthetic_data, scale_data
+from dataloader import generate_synthetic_data, scale_data
 from model_ml import train_ml_model, evaluate_model
 from model_dl import train_dl_model
 from utils import greet
